@@ -1,0 +1,78 @@
+QuickSort time variation file for diff. size prblm set
+the number of iterations per prblm set size is 1000000
+total time taken for problem set size of 2^(0) is 146.00000000 ms
+avg. time taken for per problem set size of 2^(0) is 0.00014600 ms
+
+total time taken for problem set size of 2^(1) is 171.00000000 ms
+avg. time taken for per problem set size of 2^(1) is 0.00017100 ms
+
+total time taken for problem set size of 2^(2) is 244.00000000 ms
+avg. time taken for per problem set size of 2^(2) is 0.00024400 ms
+
+total time taken for problem set size of 2^(3) is 465.00000000 ms
+avg. time taken for per problem set size of 2^(3) is 0.00046500 ms
+
+
+total time taken for different size dataset is 1028.00000000 ms
+
+
+
+
+QuickSort time variation file for diff. size prblm set
+
+the number of iterations per prblm set size is 1000
+
+total time taken for problem set size of 2^(0) is 0.0000 ms
+avg. time taken for per problem set size of 2^(0) is 0.0000 ms
+
+total time taken for problem set size of 2^(1) is 1.0000 ms
+avg. time taken for per problem set size of 2^(1) is 0.0010 ms
+
+total time taken for problem set size of 2^(2) is 0.0000 ms
+avg. time taken for per problem set size of 2^(2) is 0.0000 ms
+
+total time taken for problem set size of 2^(3) is 0.0000 ms
+avg. time taken for per problem set size of 2^(3) is 0.0000 ms
+
+total time taken for problem set size of 2^(4) is 1.0000 ms
+avg. time taken for per problem set size of 2^(4) is 0.0010 ms
+
+total time taken for problem set size of 2^(5) is 3.0000 ms
+avg. time taken for per problem set size of 2^(5) is 0.0030 ms
+
+total time taken for problem set size of 2^(6) is 5.0000 ms
+avg. time taken for per problem set size of 2^(6) is 0.0050 ms
+
+total time taken for problem set size of 2^(7) is 13.0000 ms
+avg. time taken for per problem set size of 2^(7) is 0.0130 ms
+
+total time taken for problem set size of 2^(8) is 28.0000 ms
+avg. time taken for per problem set size of 2^(8) is 0.0280 ms
+
+total time taken for problem set size of 2^(9) is 56.0000 ms
+avg. time taken for per problem set size of 2^(9) is 0.0560 ms
+
+total time taken for problem set size of 2^(10) is 108.0000 ms
+avg. time taken for per problem set size of 2^(10) is 0.1080 ms
+
+total time taken for problem set size of 2^(11) is 225.0000 ms
+avg. time taken for per problem set size of 2^(11) is 0.2250 ms
+
+total time taken for problem set size of 2^(12) is 540.0000 ms
+avg. time taken for per problem set size of 2^(12) is 0.5400 ms
+
+total time taken for problem set size of 2^(13) is 1410.0000 ms
+avg. time taken for per problem set size of 2^(13) is 1.4100 ms
+
+total time taken for problem set size of 2^(14) is 4173.0000 ms
+avg. time taken for per problem set size of 2^(14) is 4.1730 ms
+
+total time taken for problem set size of 2^(15) is 14920.0000 ms
+avg. time taken for per problem set size of 2^(15) is 14.9200 ms
+
+total time taken for problem set size of 2^(16) is 50021.0000 ms
+avg. time taken for per problem set size of 2^(16) is 50.0210 ms
+
+
+total time taken for different size dataset is 71514.0000 ms
+

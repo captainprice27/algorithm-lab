@@ -1,0 +1,28 @@
+BucketSort file 
+
+num_elements, avg_comparison, avg_time 
+number of iterations for each problem set size is 2000
+problem set size 2^(0) = 2 elements ,avg count --> 1 ,avg. time -->0.0060
+problem set size 2^(1) = 4 elements ,avg count --> 3 ,avg. time -->0.0060
+problem set size 2^(2) = 8 elements ,avg count --> 7 ,avg. time -->0.0055
+problem set size 2^(3) = 16 elements ,avg count --> 15 ,avg. time -->0.0090
+problem set size 2^(4) = 32 elements ,avg count --> 31 ,avg. time -->0.0115
+problem set size 2^(5) = 64 elements ,avg count --> 63 ,avg. time -->0.0220
+problem set size 2^(6) = 128 elements ,avg count --> 127 ,avg. time -->0.0740
+problem set size 2^(7) = 256 elements ,avg count --> 255 ,avg. time -->0.1705
+
+num_elements, avg_comparison, avg_time 
+number of iterations for each problem set size is 10
+problem set size 2^(0) = 2 elements ,avg count --> 1 ,avg. time -->0.0000
+problem set size 2^(1) = 4 elements ,avg count --> 3 ,avg. time -->0.0000
+problem set size 2^(2) = 8 elements ,avg count --> 7 ,avg. time -->0.0000
+problem set size 2^(3) = 16 elements ,avg count --> 15 ,avg. time -->0.0000
+problem set size 2^(4) = 32 elements ,avg count --> 31 ,avg. time -->0.0000
+problem set size 2^(5) = 64 elements ,avg count --> 63 ,avg. time -->0.0000
+problem set size 2^(6) = 128 elements ,avg count --> 127 ,avg. time -->0.0000
+problem set size 2^(7) = 256 elements ,avg count --> 255 ,avg. time -->0.0000
+problem set size 2^(8) = 512 elements ,avg count --> 511 ,avg. time -->0.8000
+problem set size 2^(9) = 1024 elements ,avg count --> 1023 ,avg. time -->1.6000
+problem set size 2^(10) = 2048 elements ,avg count --> 2047 ,avg. time -->8.4000
+problem set size 2^(11) = 4096 elements ,avg count --> 4095 ,avg. time -->24.8000
+problem set size 2^(12) = 8192 elements ,avg count --> 8191 ,avg. time -->104.6000
